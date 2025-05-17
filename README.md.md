@@ -20,13 +20,13 @@ Bu proje bireysel olarak geliştirilmiştir.
 
 Projede sürüm kontrolü için Git kullanılmıştır. GitHub üzerinden açık olarak paylaşılacaktır. Aşağıda bir GitHub bağlantısı verilmiştir:
 
-> GitHub: [https://github.com/kullaniciadi/canavar-oyunu](https://github.com/kullaniciadi/canavar-oyunu)
+> GitHub: [https://github.com/ukunic/canavar-oyun](https://github.com/ukunic/canavar-oyun)
 
 ## 🖼️ Oyun Görseli
 
 Aşağıda oyunun çalışma anından alınmış bir ekran görüntüsü bulunmaktadır:
 
-![Oyun Ekran Görüntüsü](assets/ekrangoruntusu.jpg)
+![Oyun Ekran Görüntüsü](assets/ekrangoruntusu.png)
 
 ## 🚀 Nasıl Oynanır?
 
